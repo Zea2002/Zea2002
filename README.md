@@ -1,16 +1,36 @@
- ## Hi 👋 I'm Zeaur Rahman
+# 👋 Hi, I'm Zeaur Rahman!
 
-<!--
-**Zea2002/Zea2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Python Developer | Django Specialist | Backend Developer | Competitive Programmer**
 
-Here are some ideas to get you started:
+🚀 **About Me:**
+- Passionate about solving problems and building scalable web solutions.
+- Experienced in Python, Django, DRF, MySQL, PostgreSQL, and more.
+- Active in competitive programming and team projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **Highlighted Projects:**
+- **[Computer Club Website](https://computerclub-cityuniversity.netlify.app/):** A dynamic frontend solution for club activities.
+- **[City University API](https://city-uni-dpt-api.onrender.com):** Backend API for managing university operations.
+- **Freelancer Platform API:** Backend infrastructure for freelancing systems.
+
+💻 **Languages & Tools:**
+- **Languages:** Python, JavaScript, SQL, HTML, CSS
+- **Frameworks:** Django, Django REST Framework
+- **Databases:** MySQL, PostgreSQL
+- **Version Control:** Git, GitHub
+- **Others:** RESTful APIs, Docker, Postman
+
+📈 **Competitive Programming Profiles:**
+- **[HackerRank](https://www.hackerrank.com/profile/rahmanzea31)**
+- **[Codeforces](https://codeforces.com/profile/Zeaur_Rahman)**
+- **[LeetCode](https://leetcode.com/u/rahmanzea31/)**
+
+📫 **Get in Touch:**
+- **Email:** [rahmanzea31@gmail.com](mailto:your-email@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/zeaur-rahman-4209622a8)
+- [Facebook](https://www.facebook.com/WanderBlueprint)
+
+🌟 **Stats and Achievements:**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zea2002&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zea2002&layout=compact&theme=radical)
+
+Feel free to explore my repositories and connect with me for collaborations or discussions!
