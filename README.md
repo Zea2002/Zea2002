@@ -5,9 +5,6 @@
 
 ---
 
-
----
-
 # 🚀 **About Me**  
 - 💻 Passionate about **problem-solving** and building **scalable web solutions**.  
 - 🛠️ Experienced in **Python**, **Django**, **DRF**, **MySQL**, and **PostgreSQL**.  
@@ -21,14 +18,14 @@
 |-------------------------------------------|--------------------------------------------------------|-----------|
 | **Computer Club Website**                 | Dynamic frontend solution for club activities.         | [View Project](https://computerclub-cityuniversity.netlify.app/) |
 | **City University API**                   | Backend API for university management.                 | [View API](https://city-uni-dpt-api.onrender.com) |
-| **Freelancer Platform API**               | Scalable backend for freelancing systems.              | _Coming Soon_ |
+| **Freelancer Platform API**               | Scalable backend for freelancing systems.              | [View API](https://api-freelancing-site.vercel.app/)|
 | **CSE City University**                   | Web app for managing department resources and events.  | [View Project](https://csecityuniversity.netlify.app/) |
 
 ---
 
 # 🛠️ **Languages & Tools**  
 
-<div align="center">
+<dv align="center">
   <h4>Programming Languages</h4>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
@@ -65,17 +62,16 @@
 - 🎯 [**LeetCode**](https://leetcode.com/u/rahmanzea31/)  
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zea2002&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zea2002&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-</div>
-
-
 ## 📫 **Get in Touch**  
 - 📧 **Email:** [rahmanzea31@gmail.com](mailto:rahmanzea31@gmail.com)  
 - 🌐 [**LinkedIn**](https://www.linkedin.com/in/zeaur-rahman-4209622a8)  
 - 📱 [**Facebook**](https://www.facebook.com/WanderBlueprint)  
 
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zea2002&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zea2002&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+</div>
 ---
 
 ✨ Feel free to explore my repositories and reach out for **collaborations** or **discussions**! Let's build something amazing together. 🌟
