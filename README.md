@@ -5,10 +5,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zea2002&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zea2002&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-</div>
 
 ---
 
@@ -69,6 +65,11 @@
 - 🎯 [**LeetCode**](https://leetcode.com/u/rahmanzea31/)  
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zea2002&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zea2002&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+</div>
+
 
 ## 📫 **Get in Touch**  
 - 📧 **Email:** [rahmanzea31@gmail.com](mailto:rahmanzea31@gmail.com)  
