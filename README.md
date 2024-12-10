@@ -1,4 +1,7 @@
 # 🌟 **Welcome to My GitHub Profile!** 🌟
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zea2002&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
 
 # 👋 Hi, I'm **Zeaur Rahman**  
 **Software Engineer** | **Python Developer** | **Django Specialist** | **Backend Developer** | **Competitive Programmer**
