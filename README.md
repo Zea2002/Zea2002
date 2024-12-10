@@ -5,33 +5,37 @@
 
 ---
 
-# 🚀 **About Me**  
+## 🚀 **About Me**  
 - 💻 Passionate about **problem-solving** and building **scalable web solutions**.  
 - 🛠️ Experienced in **Python**, **Django**, **DRF**, **MySQL**, and **PostgreSQL**.  
 - 📈 Competitive programming enthusiast and collaborative team player.  
 
 ---
 
-# 📂 **Highlighted Projects**  
+## 📂 **Highlighted Projects**  
 
 | Project Name                              | Description                                            | Live Link |
 |-------------------------------------------|--------------------------------------------------------|-----------|
 | **Computer Club Website**                 | Dynamic frontend solution for club activities.         | [View Project](https://computerclub-cityuniversity.netlify.app/) |
 | **City University API**                   | Backend API for university management.                 | [View API](https://city-uni-dpt-api.onrender.com) |
-| **Freelancer Platform API**               | Scalable backend for freelancing systems.              | [View API](https://api-freelancing-site.vercel.app/)|
+| **Freelancer Platform API**               | Scalable backend for freelancing systems.              | [View API](https://api-freelancing-site.vercel.app/) |
 | **CSE City University**                   | Web app for managing department resources and events.  | [View Project](https://csecityuniversity.netlify.app/) |
+| **Work Wonders**                          | Freelancing platform to connect professionals.         | [View Project](https://work-wonders.vercel.app/) |
 
 ---
 
-# 🛠️ **Languages & Tools**  
+## 🛠️ **Languages & Tools**  
 
-<dv align="center">
+<div align="center">
   <h4>Programming Languages</h4>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
 </div>
 
 <div align="center">
@@ -56,12 +60,13 @@
 
 ---
 
-# 🏆 **Competitive Programming Profiles**  
+## 🏆 **Competitive Programming Profiles**  
 - 💻 [**HackerRank**](https://www.hackerrank.com/profile/rahmanzea31)  
 - 🔥 [**Codeforces**](https://codeforces.com/profile/Zeaur_Rahman)  
 - 🎯 [**LeetCode**](https://leetcode.com/u/rahmanzea31/)  
 
 ---
+
 ## 📫 **Get in Touch**  
 - 📧 **Email:** [rahmanzea31@gmail.com](mailto:rahmanzea31@gmail.com)  
 - 🌐 [**LinkedIn**](https://www.linkedin.com/in/zeaur-rahman-4209622a8)  
@@ -73,5 +78,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zea2002&layout=compact&theme=radical" alt="Top Languages" height="180px" />
 </div>
 ---
-
 ✨ Feel free to explore my repositories and reach out for **collaborations** or **discussions**! Let's build something amazing together. 🌟
