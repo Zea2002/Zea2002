@@ -1,6 +1,6 @@
 # 🌟 **Welcome to My GitHub Profile!** 🌟
 
-## 👋 Hi, I'm **Zeaur Rahman**  
+# 👋 Hi, I'm **Zeaur Rahman**  
 **Software Engineer** | **Python Developer** | **Django Specialist** | **Backend Developer** | **Competitive Programmer**
 
 ---
@@ -12,14 +12,14 @@
 
 ---
 
-## 🚀 **About Me**  
+# 🚀 **About Me**  
 - 💻 Passionate about **problem-solving** and building **scalable web solutions**.  
 - 🛠️ Experienced in **Python**, **Django**, **DRF**, **MySQL**, and **PostgreSQL**.  
 - 📈 Competitive programming enthusiast and collaborative team player.  
 
 ---
 
-## 📂 **Highlighted Projects**  
+# 📂 **Highlighted Projects**  
 
 | Project Name                              | Description                                            | Live Link |
 |-------------------------------------------|--------------------------------------------------------|-----------|
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ **Languages & Tools**  
+# 🛠️ **Languages & Tools**  
 
 <div align="center">
   <h4>Programming Languages</h4>
@@ -63,7 +63,7 @@
 
 ---
 
-## 🏆 **Competitive Programming Profiles**  
+# 🏆 **Competitive Programming Profiles**  
 - 💻 [**HackerRank**](https://www.hackerrank.com/profile/rahmanzea31)  
 - 🔥 [**Codeforces**](https://codeforces.com/profile/Zeaur_Rahman)  
 - 🎯 [**LeetCode**](https://leetcode.com/u/rahmanzea31/)  
